@@ -4,6 +4,14 @@
 		<link rel="stylesheet" type="text/css" href="common/themes/tc/css/layout.css">
 	</head>
 	<body>
-		
+		<div class="header">
+			
+		</div>
+		<div class="page">
+			
+		</div>
+		<div class="footer">
+			
+		</div>
 	</body>
 </html>
