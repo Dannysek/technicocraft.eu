@@ -1,0 +1,5 @@
+<?php
+
+$menu_home
+
+?>
